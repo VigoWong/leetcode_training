@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/huhawel/Documents/leetcode_training/data_structure/stack.c
+stdlib.h
+/Users/huhawel/Documents/leetcode_training/data_structure/stdlib.h
+stdio.h
+/Users/huhawel/Documents/leetcode_training/data_structure/stdio.h
+stdbool.h
+/Users/huhawel/Documents/leetcode_training/data_structure/stdbool.h
+assert.h
+/Users/huhawel/Documents/leetcode_training/data_structure/assert.h
+
