@@ -57,42 +57,42 @@ include CMakeFiles/leetcode_training.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/leetcode_training.dir/flags.make
 
-CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.o: CMakeFiles/leetcode_training.dir/flags.make
-CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.o: ../MoveZero/MoveZero.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.o   -c /Users/huhawel/Documents/leetcode_training/MoveZero/MoveZero.c
+CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.o: CMakeFiles/leetcode_training.dir/flags.make
+CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.o: ../CountingElements/CountElem.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.o   -c /Users/huhawel/Documents/leetcode_training/CountingElements/CountElem.c
 
-CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/huhawel/Documents/leetcode_training/MoveZero/MoveZero.c > CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.i
+CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/huhawel/Documents/leetcode_training/CountingElements/CountElem.c > CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.i
 
-CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/huhawel/Documents/leetcode_training/MoveZero/MoveZero.c -o CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.s
+CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/huhawel/Documents/leetcode_training/CountingElements/CountElem.c -o CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.s
 
-CMakeFiles/leetcode_training.dir/data_structure/stack.c.o: CMakeFiles/leetcode_training.dir/flags.make
-CMakeFiles/leetcode_training.dir/data_structure/stack.c.o: ../data_structure/stack.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/leetcode_training.dir/data_structure/stack.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/leetcode_training.dir/data_structure/stack.c.o   -c /Users/huhawel/Documents/leetcode_training/data_structure/stack.c
+CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o: CMakeFiles/leetcode_training.dir/flags.make
+CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o: ../data_structure/stack/stack.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o   -c /Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.c
 
-CMakeFiles/leetcode_training.dir/data_structure/stack.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/leetcode_training.dir/data_structure/stack.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/huhawel/Documents/leetcode_training/data_structure/stack.c > CMakeFiles/leetcode_training.dir/data_structure/stack.c.i
+CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.c > CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.i
 
-CMakeFiles/leetcode_training.dir/data_structure/stack.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/leetcode_training.dir/data_structure/stack.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/huhawel/Documents/leetcode_training/data_structure/stack.c -o CMakeFiles/leetcode_training.dir/data_structure/stack.c.s
+CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.c -o CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.s
 
 # Object files for target leetcode_training
 leetcode_training_OBJECTS = \
-"CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.o" \
-"CMakeFiles/leetcode_training.dir/data_structure/stack.c.o"
+"CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.o" \
+"CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o"
 
 # External object files for target leetcode_training
 leetcode_training_EXTERNAL_OBJECTS =
 
-leetcode_training: CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.o
-leetcode_training: CMakeFiles/leetcode_training.dir/data_structure/stack.c.o
+leetcode_training: CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.o
+leetcode_training: CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o
 leetcode_training: CMakeFiles/leetcode_training.dir/build.make
 leetcode_training: CMakeFiles/leetcode_training.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable leetcode_training"

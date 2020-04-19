@@ -123,59 +123,59 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-MoveZero/MoveZero.o: MoveZero/MoveZero.c.o
+CountingElements/CountElem.o: CountingElements/CountElem.c.o
 
-.PHONY : MoveZero/MoveZero.o
-
-# target to build an object file
-MoveZero/MoveZero.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.o
-.PHONY : MoveZero/MoveZero.c.o
-
-MoveZero/MoveZero.i: MoveZero/MoveZero.c.i
-
-.PHONY : MoveZero/MoveZero.i
-
-# target to preprocess a source file
-MoveZero/MoveZero.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.i
-.PHONY : MoveZero/MoveZero.c.i
-
-MoveZero/MoveZero.s: MoveZero/MoveZero.c.s
-
-.PHONY : MoveZero/MoveZero.s
-
-# target to generate assembly for a file
-MoveZero/MoveZero.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.s
-.PHONY : MoveZero/MoveZero.c.s
-
-data_structure/stack.o: data_structure/stack.c.o
-
-.PHONY : data_structure/stack.o
+.PHONY : CountingElements/CountElem.o
 
 # target to build an object file
-data_structure/stack.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/stack.c.o
-.PHONY : data_structure/stack.c.o
+CountingElements/CountElem.c.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.o
+.PHONY : CountingElements/CountElem.c.o
 
-data_structure/stack.i: data_structure/stack.c.i
+CountingElements/CountElem.i: CountingElements/CountElem.c.i
 
-.PHONY : data_structure/stack.i
+.PHONY : CountingElements/CountElem.i
 
 # target to preprocess a source file
-data_structure/stack.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/stack.c.i
-.PHONY : data_structure/stack.c.i
+CountingElements/CountElem.c.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.i
+.PHONY : CountingElements/CountElem.c.i
 
-data_structure/stack.s: data_structure/stack.c.s
+CountingElements/CountElem.s: CountingElements/CountElem.c.s
 
-.PHONY : data_structure/stack.s
+.PHONY : CountingElements/CountElem.s
 
 # target to generate assembly for a file
-data_structure/stack.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/stack.c.s
-.PHONY : data_structure/stack.c.s
+CountingElements/CountElem.c.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.s
+.PHONY : CountingElements/CountElem.c.s
+
+data_structure/stack/stack.o: data_structure/stack/stack.c.o
+
+.PHONY : data_structure/stack/stack.o
+
+# target to build an object file
+data_structure/stack/stack.c.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o
+.PHONY : data_structure/stack/stack.c.o
+
+data_structure/stack/stack.i: data_structure/stack/stack.c.i
+
+.PHONY : data_structure/stack/stack.i
+
+# target to preprocess a source file
+data_structure/stack/stack.c.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.i
+.PHONY : data_structure/stack/stack.c.i
+
+data_structure/stack/stack.s: data_structure/stack/stack.c.s
+
+.PHONY : data_structure/stack/stack.s
+
+# target to generate assembly for a file
+data_structure/stack/stack.c.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.s
+.PHONY : data_structure/stack/stack.c.s
 
 # Help Target
 help:
@@ -186,12 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... MoveZero/MoveZero.o"
-	@echo "... MoveZero/MoveZero.i"
-	@echo "... MoveZero/MoveZero.s"
-	@echo "... data_structure/stack.o"
-	@echo "... data_structure/stack.i"
-	@echo "... data_structure/stack.s"
+	@echo "... CountingElements/CountElem.o"
+	@echo "... CountingElements/CountElem.i"
+	@echo "... CountingElements/CountElem.s"
+	@echo "... data_structure/stack/stack.o"
+	@echo "... data_structure/stack/stack.i"
+	@echo "... data_structure/stack/stack.s"
 .PHONY : help
 
 

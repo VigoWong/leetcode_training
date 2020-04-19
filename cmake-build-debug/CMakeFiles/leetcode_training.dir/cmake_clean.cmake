@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/leetcode_training.dir/MoveZero/MoveZero.c.o"
-  "CMakeFiles/leetcode_training.dir/data_structure/stack.c.o"
+  "CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.o"
+  "CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o"
   "leetcode_training"
   "leetcode_training.pdb"
 )

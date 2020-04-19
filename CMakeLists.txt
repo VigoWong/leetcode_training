@@ -4,7 +4,8 @@ project(leetcode_training C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(leetcode_training
-        MoveZero/MoveZero.c
-        data_structure/stack.c
-        data_structure/stack.h
+        CountingElements/CountElem.c
+        data_structure/stack/stack.c
+        data_structure/stack/stack.h
+        data_structure/uthash/include/uthash.h
         )

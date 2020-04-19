@@ -6,19 +6,27 @@
 
 #IncludeRegexTransform: 
 
-/Users/huhawel/Documents/leetcode_training/MoveZero/MoveZero.c
+/Users/huhawel/Documents/leetcode_training/CountingElements/CountElem.c
 stdio.h
-/Users/huhawel/Documents/leetcode_training/MoveZero/stdio.h
-../data_structure/stack.h
-/Users/huhawel/Documents/leetcode_training/data_structure/stack.h
-
-/Users/huhawel/Documents/leetcode_training/data_structure/stack.h
+/Users/huhawel/Documents/leetcode_training/CountingElements/stdio.h
 stdlib.h
-/Users/huhawel/Documents/leetcode_training/data_structure/stdlib.h
+/Users/huhawel/Documents/leetcode_training/CountingElements/stdlib.h
+../data_structure/uthash/include/uthash.h
+/Users/huhawel/Documents/leetcode_training/data_structure/uthash/include/uthash.h
+
+/Users/huhawel/Documents/leetcode_training/data_structure/uthash/include/uthash.h
+string.h
+-
+stddef.h
+-
+stdlib.h
+-
+stdint.h
+-
+stdint.h
+-
+stdint.h
+-
 stdio.h
-/Users/huhawel/Documents/leetcode_training/data_structure/stdio.h
-stdbool.h
-/Users/huhawel/Documents/leetcode_training/data_structure/stdbool.h
-assert.h
-/Users/huhawel/Documents/leetcode_training/data_structure/assert.h
+-
 
