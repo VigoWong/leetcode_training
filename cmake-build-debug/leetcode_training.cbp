@@ -78,7 +78,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/CountingElements/CountElem.c">
+		<Unit filename="/Users/huhawel/Documents/leetcode_training/ValidParenthesisString/ValidParenthesisString.c">
 			<Option target="leetcode_training"/>
 		</Unit>
 		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.c">

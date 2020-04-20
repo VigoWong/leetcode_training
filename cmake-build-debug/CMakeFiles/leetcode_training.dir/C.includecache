@@ -6,27 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/Users/huhawel/Documents/leetcode_training/CountingElements/CountElem.c
-stdio.h
-/Users/huhawel/Documents/leetcode_training/CountingElements/stdio.h
+/Users/huhawel/Documents/leetcode_training/ValidParenthesisString/ValidParenthesisString.c
 stdlib.h
-/Users/huhawel/Documents/leetcode_training/CountingElements/stdlib.h
-../data_structure/uthash/include/uthash.h
-/Users/huhawel/Documents/leetcode_training/data_structure/uthash/include/uthash.h
+/Users/huhawel/Documents/leetcode_training/ValidParenthesisString/stdlib.h
+stdbool.h
+/Users/huhawel/Documents/leetcode_training/ValidParenthesisString/stdbool.h
+../data_structure/stack/stack.h
+/Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.h
 
-/Users/huhawel/Documents/leetcode_training/data_structure/uthash/include/uthash.h
-string.h
--
-stddef.h
--
+/Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.h
 stdlib.h
--
-stdint.h
--
-stdint.h
--
-stdint.h
--
+/Users/huhawel/Documents/leetcode_training/data_structure/stack/stdlib.h
 stdio.h
--
+/Users/huhawel/Documents/leetcode_training/data_structure/stack/stdio.h
+stdbool.h
+/Users/huhawel/Documents/leetcode_training/data_structure/stack/stdbool.h
+assert.h
+/Users/huhawel/Documents/leetcode_training/data_structure/stack/assert.h
 

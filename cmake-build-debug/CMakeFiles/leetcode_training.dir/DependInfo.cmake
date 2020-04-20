@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/huhawel/Documents/leetcode_training/CountingElements/CountElem.c" "/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.o"
+  "/Users/huhawel/Documents/leetcode_training/ValidParenthesisString/ValidParenthesisString.c" "/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.o"
   "/Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.c" "/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")

@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-CountingElements/CountElem.o: CountingElements/CountElem.c.o
+ValidParenthesisString/ValidParenthesisString.o: ValidParenthesisString/ValidParenthesisString.c.o
 
-.PHONY : CountingElements/CountElem.o
+.PHONY : ValidParenthesisString/ValidParenthesisString.o
 
 # target to build an object file
-CountingElements/CountElem.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.o
-.PHONY : CountingElements/CountElem.c.o
+ValidParenthesisString/ValidParenthesisString.c.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.o
+.PHONY : ValidParenthesisString/ValidParenthesisString.c.o
 
-CountingElements/CountElem.i: CountingElements/CountElem.c.i
+ValidParenthesisString/ValidParenthesisString.i: ValidParenthesisString/ValidParenthesisString.c.i
 
-.PHONY : CountingElements/CountElem.i
+.PHONY : ValidParenthesisString/ValidParenthesisString.i
 
 # target to preprocess a source file
-CountingElements/CountElem.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.i
-.PHONY : CountingElements/CountElem.c.i
+ValidParenthesisString/ValidParenthesisString.c.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.i
+.PHONY : ValidParenthesisString/ValidParenthesisString.c.i
 
-CountingElements/CountElem.s: CountingElements/CountElem.c.s
+ValidParenthesisString/ValidParenthesisString.s: ValidParenthesisString/ValidParenthesisString.c.s
 
-.PHONY : CountingElements/CountElem.s
+.PHONY : ValidParenthesisString/ValidParenthesisString.s
 
 # target to generate assembly for a file
-CountingElements/CountElem.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/CountingElements/CountElem.c.s
-.PHONY : CountingElements/CountElem.c.s
+ValidParenthesisString/ValidParenthesisString.c.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.s
+.PHONY : ValidParenthesisString/ValidParenthesisString.c.s
 
 data_structure/stack/stack.o: data_structure/stack/stack.c.o
 
@@ -186,9 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... CountingElements/CountElem.o"
-	@echo "... CountingElements/CountElem.i"
-	@echo "... CountingElements/CountElem.s"
+	@echo "... ValidParenthesisString/ValidParenthesisString.o"
+	@echo "... ValidParenthesisString/ValidParenthesisString.i"
+	@echo "... ValidParenthesisString/ValidParenthesisString.s"
 	@echo "... data_structure/stack/stack.o"
 	@echo "... data_structure/stack/stack.i"
 	@echo "... data_structure/stack/stack.s"

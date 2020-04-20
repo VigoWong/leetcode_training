@@ -12,7 +12,7 @@
 #include "stdbool.h"
 #include "assert.h"
 
-#define dataType int
+#define dataType char
 
 typedef struct Stack stack, *stack_p;
 
