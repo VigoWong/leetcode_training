@@ -123,32 +123,59 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-ValidParenthesisString/ValidParenthesisString.o: ValidParenthesisString/ValidParenthesisString.c.o
+MiddleoftheLinkedList/MiddleoftheLinkedList.o: MiddleoftheLinkedList/MiddleoftheLinkedList.c.o
 
-.PHONY : ValidParenthesisString/ValidParenthesisString.o
+.PHONY : MiddleoftheLinkedList/MiddleoftheLinkedList.o
 
 # target to build an object file
-ValidParenthesisString/ValidParenthesisString.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.o
-.PHONY : ValidParenthesisString/ValidParenthesisString.c.o
+MiddleoftheLinkedList/MiddleoftheLinkedList.c.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.o
+.PHONY : MiddleoftheLinkedList/MiddleoftheLinkedList.c.o
 
-ValidParenthesisString/ValidParenthesisString.i: ValidParenthesisString/ValidParenthesisString.c.i
+MiddleoftheLinkedList/MiddleoftheLinkedList.i: MiddleoftheLinkedList/MiddleoftheLinkedList.c.i
 
-.PHONY : ValidParenthesisString/ValidParenthesisString.i
+.PHONY : MiddleoftheLinkedList/MiddleoftheLinkedList.i
 
 # target to preprocess a source file
-ValidParenthesisString/ValidParenthesisString.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.i
-.PHONY : ValidParenthesisString/ValidParenthesisString.c.i
+MiddleoftheLinkedList/MiddleoftheLinkedList.c.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.i
+.PHONY : MiddleoftheLinkedList/MiddleoftheLinkedList.c.i
 
-ValidParenthesisString/ValidParenthesisString.s: ValidParenthesisString/ValidParenthesisString.c.s
+MiddleoftheLinkedList/MiddleoftheLinkedList.s: MiddleoftheLinkedList/MiddleoftheLinkedList.c.s
 
-.PHONY : ValidParenthesisString/ValidParenthesisString.s
+.PHONY : MiddleoftheLinkedList/MiddleoftheLinkedList.s
 
 # target to generate assembly for a file
-ValidParenthesisString/ValidParenthesisString.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.s
-.PHONY : ValidParenthesisString/ValidParenthesisString.c.s
+MiddleoftheLinkedList/MiddleoftheLinkedList.c.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.s
+.PHONY : MiddleoftheLinkedList/MiddleoftheLinkedList.c.s
+
+data_structure/graph/Graph.o: data_structure/graph/Graph.c.o
+
+.PHONY : data_structure/graph/Graph.o
+
+# target to build an object file
+data_structure/graph/Graph.c.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.o
+.PHONY : data_structure/graph/Graph.c.o
+
+data_structure/graph/Graph.i: data_structure/graph/Graph.c.i
+
+.PHONY : data_structure/graph/Graph.i
+
+# target to preprocess a source file
+data_structure/graph/Graph.c.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.i
+.PHONY : data_structure/graph/Graph.c.i
+
+data_structure/graph/Graph.s: data_structure/graph/Graph.c.s
+
+.PHONY : data_structure/graph/Graph.s
+
+# target to generate assembly for a file
+data_structure/graph/Graph.c.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.s
+.PHONY : data_structure/graph/Graph.c.s
 
 data_structure/stack/stack.o: data_structure/stack/stack.c.o
 
@@ -177,6 +204,33 @@ data_structure/stack/stack.c.s:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.s
 .PHONY : data_structure/stack/stack.c.s
 
+data_structure/tree/Tree.o: data_structure/tree/Tree.c.o
+
+.PHONY : data_structure/tree/Tree.o
+
+# target to build an object file
+data_structure/tree/Tree.c.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.o
+.PHONY : data_structure/tree/Tree.c.o
+
+data_structure/tree/Tree.i: data_structure/tree/Tree.c.i
+
+.PHONY : data_structure/tree/Tree.i
+
+# target to preprocess a source file
+data_structure/tree/Tree.c.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.i
+.PHONY : data_structure/tree/Tree.c.i
+
+data_structure/tree/Tree.s: data_structure/tree/Tree.c.s
+
+.PHONY : data_structure/tree/Tree.s
+
+# target to generate assembly for a file
+data_structure/tree/Tree.c.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.s
+.PHONY : data_structure/tree/Tree.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -186,12 +240,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... ValidParenthesisString/ValidParenthesisString.o"
-	@echo "... ValidParenthesisString/ValidParenthesisString.i"
-	@echo "... ValidParenthesisString/ValidParenthesisString.s"
+	@echo "... MiddleoftheLinkedList/MiddleoftheLinkedList.o"
+	@echo "... MiddleoftheLinkedList/MiddleoftheLinkedList.i"
+	@echo "... MiddleoftheLinkedList/MiddleoftheLinkedList.s"
+	@echo "... data_structure/graph/Graph.o"
+	@echo "... data_structure/graph/Graph.i"
+	@echo "... data_structure/graph/Graph.s"
 	@echo "... data_structure/stack/stack.o"
 	@echo "... data_structure/stack/stack.i"
 	@echo "... data_structure/stack/stack.s"
+	@echo "... data_structure/tree/Tree.o"
+	@echo "... data_structure/tree/Tree.i"
+	@echo "... data_structure/tree/Tree.s"
 .PHONY : help
 
 

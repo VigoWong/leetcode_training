@@ -57,22 +57,48 @@ include CMakeFiles/leetcode_training.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/leetcode_training.dir/flags.make
 
-CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.o: CMakeFiles/leetcode_training.dir/flags.make
-CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.o: ../ValidParenthesisString/ValidParenthesisString.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.o   -c /Users/huhawel/Documents/leetcode_training/ValidParenthesisString/ValidParenthesisString.c
+CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.o: CMakeFiles/leetcode_training.dir/flags.make
+CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.o: ../MiddleoftheLinkedList/MiddleoftheLinkedList.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.o   -c /Users/huhawel/Documents/leetcode_training/MiddleoftheLinkedList/MiddleoftheLinkedList.c
 
-CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/huhawel/Documents/leetcode_training/ValidParenthesisString/ValidParenthesisString.c > CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.i
+CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/huhawel/Documents/leetcode_training/MiddleoftheLinkedList/MiddleoftheLinkedList.c > CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.i
 
-CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/huhawel/Documents/leetcode_training/ValidParenthesisString/ValidParenthesisString.c -o CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.s
+CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/huhawel/Documents/leetcode_training/MiddleoftheLinkedList/MiddleoftheLinkedList.c -o CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.s
+
+CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.o: CMakeFiles/leetcode_training.dir/flags.make
+CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.o: ../data_structure/tree/Tree.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.o   -c /Users/huhawel/Documents/leetcode_training/data_structure/tree/Tree.c
+
+CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/huhawel/Documents/leetcode_training/data_structure/tree/Tree.c > CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.i
+
+CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/huhawel/Documents/leetcode_training/data_structure/tree/Tree.c -o CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.s
+
+CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.o: CMakeFiles/leetcode_training.dir/flags.make
+CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.o: ../data_structure/graph/Graph.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.o   -c /Users/huhawel/Documents/leetcode_training/data_structure/graph/Graph.c
+
+CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/huhawel/Documents/leetcode_training/data_structure/graph/Graph.c > CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.i
+
+CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/huhawel/Documents/leetcode_training/data_structure/graph/Graph.c -o CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.s
 
 CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o: CMakeFiles/leetcode_training.dir/flags.make
 CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o: ../data_structure/stack/stack.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o   -c /Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.c
 
 CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.i: cmake_force
@@ -85,17 +111,21 @@ CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.s: cmake_force
 
 # Object files for target leetcode_training
 leetcode_training_OBJECTS = \
-"CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.o" \
+"CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.o" \
+"CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.o" \
+"CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.o" \
 "CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o"
 
 # External object files for target leetcode_training
 leetcode_training_EXTERNAL_OBJECTS =
 
-leetcode_training: CMakeFiles/leetcode_training.dir/ValidParenthesisString/ValidParenthesisString.c.o
+leetcode_training: CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.o
+leetcode_training: CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.o
+leetcode_training: CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.o
 leetcode_training: CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o
 leetcode_training: CMakeFiles/leetcode_training.dir/build.make
 leetcode_training: CMakeFiles/leetcode_training.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable leetcode_training"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable leetcode_training"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/leetcode_training.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

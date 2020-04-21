@@ -78,13 +78,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/ValidParenthesisString/ValidParenthesisString.c">
+		<Unit filename="/Users/huhawel/Documents/leetcode_training/MiddleoftheLinkedList/MiddleoftheLinkedList.c">
+			<Option target="leetcode_training"/>
+		</Unit>
+		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/graph/Graph.c">
+			<Option target="leetcode_training"/>
+		</Unit>
+		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/graph/Graph.h">
 			<Option target="leetcode_training"/>
 		</Unit>
 		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.c">
 			<Option target="leetcode_training"/>
 		</Unit>
 		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.h">
+			<Option target="leetcode_training"/>
+		</Unit>
+		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/tree/Tree.c">
+			<Option target="leetcode_training"/>
+		</Unit>
+		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/tree/Tree.h">
 			<Option target="leetcode_training"/>
 		</Unit>
 		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/uthash/include/uthash.h">

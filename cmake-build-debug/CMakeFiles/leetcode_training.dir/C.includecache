@@ -6,21 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/Users/huhawel/Documents/leetcode_training/ValidParenthesisString/ValidParenthesisString.c
+/Users/huhawel/Documents/leetcode_training/ConstructBinarySearchTreefromPreorderTraversal/ConstructBinarySearchTreefromPreorderTraversal.c
 stdlib.h
-/Users/huhawel/Documents/leetcode_training/ValidParenthesisString/stdlib.h
-stdbool.h
-/Users/huhawel/Documents/leetcode_training/ValidParenthesisString/stdbool.h
-../data_structure/stack/stack.h
-/Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.h
-
-/Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.h
-stdlib.h
-/Users/huhawel/Documents/leetcode_training/data_structure/stack/stdlib.h
+/Users/huhawel/Documents/leetcode_training/ConstructBinarySearchTreefromPreorderTraversal/stdlib.h
 stdio.h
-/Users/huhawel/Documents/leetcode_training/data_structure/stack/stdio.h
+/Users/huhawel/Documents/leetcode_training/ConstructBinarySearchTreefromPreorderTraversal/stdio.h
+../data_structure/tree/Tree.h
+/Users/huhawel/Documents/leetcode_training/data_structure/tree/Tree.h
+
+/Users/huhawel/Documents/leetcode_training/data_structure/tree/Tree.h
 stdbool.h
-/Users/huhawel/Documents/leetcode_training/data_structure/stack/stdbool.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
 assert.h
-/Users/huhawel/Documents/leetcode_training/data_structure/stack/assert.h
+-
+math.h
+-
 
