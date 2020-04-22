@@ -4,7 +4,11 @@ project(leetcode_training C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(leetcode_training
-        MiddleoftheLinkedList/MiddleoftheLinkedList.c
+        ContiguousArray/ContiguousArray.c
+        data_structure/tree/MaxHeap.c
+        data_structure/tree/MaxHeap.h
+#        data_structure/tree/MinHeap.c
+#        data_structure/tree/MinHeap.h
         data_structure/tree/Tree.c
         data_structure/tree/Tree.h
         data_structure/graph/Graph.h

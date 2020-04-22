@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-MiddleoftheLinkedList/MiddleoftheLinkedList.o: MiddleoftheLinkedList/MiddleoftheLinkedList.c.o
+ContiguousArray/ContiguousArray.o: ContiguousArray/ContiguousArray.c.o
 
-.PHONY : MiddleoftheLinkedList/MiddleoftheLinkedList.o
+.PHONY : ContiguousArray/ContiguousArray.o
 
 # target to build an object file
-MiddleoftheLinkedList/MiddleoftheLinkedList.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.o
-.PHONY : MiddleoftheLinkedList/MiddleoftheLinkedList.c.o
+ContiguousArray/ContiguousArray.c.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ContiguousArray/ContiguousArray.c.o
+.PHONY : ContiguousArray/ContiguousArray.c.o
 
-MiddleoftheLinkedList/MiddleoftheLinkedList.i: MiddleoftheLinkedList/MiddleoftheLinkedList.c.i
+ContiguousArray/ContiguousArray.i: ContiguousArray/ContiguousArray.c.i
 
-.PHONY : MiddleoftheLinkedList/MiddleoftheLinkedList.i
+.PHONY : ContiguousArray/ContiguousArray.i
 
 # target to preprocess a source file
-MiddleoftheLinkedList/MiddleoftheLinkedList.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.i
-.PHONY : MiddleoftheLinkedList/MiddleoftheLinkedList.c.i
+ContiguousArray/ContiguousArray.c.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ContiguousArray/ContiguousArray.c.i
+.PHONY : ContiguousArray/ContiguousArray.c.i
 
-MiddleoftheLinkedList/MiddleoftheLinkedList.s: MiddleoftheLinkedList/MiddleoftheLinkedList.c.s
+ContiguousArray/ContiguousArray.s: ContiguousArray/ContiguousArray.c.s
 
-.PHONY : MiddleoftheLinkedList/MiddleoftheLinkedList.s
+.PHONY : ContiguousArray/ContiguousArray.s
 
 # target to generate assembly for a file
-MiddleoftheLinkedList/MiddleoftheLinkedList.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MiddleoftheLinkedList/MiddleoftheLinkedList.c.s
-.PHONY : MiddleoftheLinkedList/MiddleoftheLinkedList.c.s
+ContiguousArray/ContiguousArray.c.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ContiguousArray/ContiguousArray.c.s
+.PHONY : ContiguousArray/ContiguousArray.c.s
 
 data_structure/graph/Graph.o: data_structure/graph/Graph.c.o
 
@@ -204,6 +204,33 @@ data_structure/stack/stack.c.s:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.s
 .PHONY : data_structure/stack/stack.c.s
 
+data_structure/tree/MaxHeap.o: data_structure/tree/MaxHeap.c.o
+
+.PHONY : data_structure/tree/MaxHeap.o
+
+# target to build an object file
+data_structure/tree/MaxHeap.c.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/tree/MaxHeap.c.o
+.PHONY : data_structure/tree/MaxHeap.c.o
+
+data_structure/tree/MaxHeap.i: data_structure/tree/MaxHeap.c.i
+
+.PHONY : data_structure/tree/MaxHeap.i
+
+# target to preprocess a source file
+data_structure/tree/MaxHeap.c.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/tree/MaxHeap.c.i
+.PHONY : data_structure/tree/MaxHeap.c.i
+
+data_structure/tree/MaxHeap.s: data_structure/tree/MaxHeap.c.s
+
+.PHONY : data_structure/tree/MaxHeap.s
+
+# target to generate assembly for a file
+data_structure/tree/MaxHeap.c.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/tree/MaxHeap.c.s
+.PHONY : data_structure/tree/MaxHeap.c.s
+
 data_structure/tree/Tree.o: data_structure/tree/Tree.c.o
 
 .PHONY : data_structure/tree/Tree.o
@@ -240,15 +267,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... MiddleoftheLinkedList/MiddleoftheLinkedList.o"
-	@echo "... MiddleoftheLinkedList/MiddleoftheLinkedList.i"
-	@echo "... MiddleoftheLinkedList/MiddleoftheLinkedList.s"
+	@echo "... ContiguousArray/ContiguousArray.o"
+	@echo "... ContiguousArray/ContiguousArray.i"
+	@echo "... ContiguousArray/ContiguousArray.s"
 	@echo "... data_structure/graph/Graph.o"
 	@echo "... data_structure/graph/Graph.i"
 	@echo "... data_structure/graph/Graph.s"
 	@echo "... data_structure/stack/stack.o"
 	@echo "... data_structure/stack/stack.i"
 	@echo "... data_structure/stack/stack.s"
+	@echo "... data_structure/tree/MaxHeap.o"
+	@echo "... data_structure/tree/MaxHeap.i"
+	@echo "... data_structure/tree/MaxHeap.s"
 	@echo "... data_structure/tree/Tree.o"
 	@echo "... data_structure/tree/Tree.i"
 	@echo "... data_structure/tree/Tree.s"

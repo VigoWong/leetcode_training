@@ -78,7 +78,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/MiddleoftheLinkedList/MiddleoftheLinkedList.c">
+		<Unit filename="/Users/huhawel/Documents/leetcode_training/ContiguousArray/ContiguousArray.c">
 			<Option target="leetcode_training"/>
 		</Unit>
 		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/graph/Graph.c">
@@ -91,6 +91,12 @@
 			<Option target="leetcode_training"/>
 		</Unit>
 		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.h">
+			<Option target="leetcode_training"/>
+		</Unit>
+		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/tree/MaxHeap.c">
+			<Option target="leetcode_training"/>
+		</Unit>
+		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/tree/MaxHeap.h">
 			<Option target="leetcode_training"/>
 		</Unit>
 		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/tree/Tree.c">

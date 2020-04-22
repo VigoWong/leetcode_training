@@ -1,7 +1,7 @@
 //
 // Created by Vigo Wong on 21/4/20.
 //
-
+#include "stdio.h"
 
 // Definition for singly-linked list.
 struct ListNode {
