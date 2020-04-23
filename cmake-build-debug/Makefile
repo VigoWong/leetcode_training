@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-ContiguousArray/ContiguousArray.o: ContiguousArray/ContiguousArray.c.o
+PerformStringShifts***/PerformStringShifts.o: PerformStringShifts***/PerformStringShifts.c.o
 
-.PHONY : ContiguousArray/ContiguousArray.o
+.PHONY : PerformStringShifts***/PerformStringShifts.o
 
 # target to build an object file
-ContiguousArray/ContiguousArray.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ContiguousArray/ContiguousArray.c.o
-.PHONY : ContiguousArray/ContiguousArray.c.o
+PerformStringShifts***/PerformStringShifts.c.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make "CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.o"
+.PHONY : PerformStringShifts***/PerformStringShifts.c.o
 
-ContiguousArray/ContiguousArray.i: ContiguousArray/ContiguousArray.c.i
+PerformStringShifts***/PerformStringShifts.i: PerformStringShifts***/PerformStringShifts.c.i
 
-.PHONY : ContiguousArray/ContiguousArray.i
+.PHONY : PerformStringShifts***/PerformStringShifts.i
 
 # target to preprocess a source file
-ContiguousArray/ContiguousArray.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ContiguousArray/ContiguousArray.c.i
-.PHONY : ContiguousArray/ContiguousArray.c.i
+PerformStringShifts***/PerformStringShifts.c.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make "CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.i"
+.PHONY : PerformStringShifts***/PerformStringShifts.c.i
 
-ContiguousArray/ContiguousArray.s: ContiguousArray/ContiguousArray.c.s
+PerformStringShifts***/PerformStringShifts.s: PerformStringShifts***/PerformStringShifts.c.s
 
-.PHONY : ContiguousArray/ContiguousArray.s
+.PHONY : PerformStringShifts***/PerformStringShifts.s
 
 # target to generate assembly for a file
-ContiguousArray/ContiguousArray.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ContiguousArray/ContiguousArray.c.s
-.PHONY : ContiguousArray/ContiguousArray.c.s
+PerformStringShifts***/PerformStringShifts.c.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make "CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.s"
+.PHONY : PerformStringShifts***/PerformStringShifts.c.s
 
 data_structure/graph/Graph.o: data_structure/graph/Graph.c.o
 
@@ -267,9 +267,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... ContiguousArray/ContiguousArray.o"
-	@echo "... ContiguousArray/ContiguousArray.i"
-	@echo "... ContiguousArray/ContiguousArray.s"
+	@echo "... PerformStringShifts***/PerformStringShifts.o"
+	@echo "... PerformStringShifts***/PerformStringShifts.i"
+	@echo "... PerformStringShifts***/PerformStringShifts.s"
 	@echo "... data_structure/graph/Graph.o"
 	@echo "... data_structure/graph/Graph.i"
 	@echo "... data_structure/graph/Graph.s"

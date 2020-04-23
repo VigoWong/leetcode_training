@@ -6,25 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/huhawel/Documents/leetcode_training/ContiguousArray/ContiguousArray.c
-stdio.h
-/Users/huhawel/Documents/leetcode_training/ContiguousArray/stdio.h
-../data_structure/uthash/include/uthash.h
-/Users/huhawel/Documents/leetcode_training/data_structure/uthash/include/uthash.h
-
-/Users/huhawel/Documents/leetcode_training/data_structure/uthash/include/uthash.h
+/Users/huhawel/Documents/leetcode_training/PerformStringShifts/PerformStringShifts.c
 string.h
--
-stddef.h
--
-stdlib.h
--
-stdint.h
--
-stdint.h
--
-stdint.h
--
+/Users/huhawel/Documents/leetcode_training/PerformStringShifts/string.h
 stdio.h
--
+/Users/huhawel/Documents/leetcode_training/PerformStringShifts/stdio.h
+stdlib.h
+/Users/huhawel/Documents/leetcode_training/PerformStringShifts/stdlib.h
+stdbool.h
+/Users/huhawel/Documents/leetcode_training/PerformStringShifts/stdbool.h
 

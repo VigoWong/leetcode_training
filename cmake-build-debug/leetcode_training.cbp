@@ -78,7 +78,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/ContiguousArray/ContiguousArray.c">
+		<Unit filename="/Users/huhawel/Documents/leetcode_training/PerformStringShifts***/PerformStringShifts.c">
 			<Option target="leetcode_training"/>
 		</Unit>
 		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/graph/Graph.c">
