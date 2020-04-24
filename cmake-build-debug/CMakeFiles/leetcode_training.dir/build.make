@@ -57,18 +57,18 @@ include CMakeFiles/leetcode_training.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/leetcode_training.dir/flags.make
 
-CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.o: CMakeFiles/leetcode_training.dir/flags.make
-CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.o: ../PerformStringShifts***/PerformStringShifts.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o "CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.o"   -c "/Users/huhawel/Documents/leetcode_training/PerformStringShifts***/PerformStringShifts.c"
+CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.o: CMakeFiles/leetcode_training.dir/flags.make
+CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.o: ../PermutationII/PermutationII.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.o   -c /Users/huhawel/Documents/leetcode_training/PermutationII/PermutationII.c
 
-CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/huhawel/Documents/leetcode_training/PerformStringShifts***/PerformStringShifts.c" > "CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.i"
+CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/huhawel/Documents/leetcode_training/PermutationII/PermutationII.c > CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.i
 
-CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/huhawel/Documents/leetcode_training/PerformStringShifts***/PerformStringShifts.c" -o "CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.s"
+CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/huhawel/Documents/leetcode_training/PermutationII/PermutationII.c -o CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.s
 
 CMakeFiles/leetcode_training.dir/data_structure/tree/MaxHeap.c.o: CMakeFiles/leetcode_training.dir/flags.make
 CMakeFiles/leetcode_training.dir/data_structure/tree/MaxHeap.c.o: ../data_structure/tree/MaxHeap.c
@@ -124,7 +124,7 @@ CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.s: cmake_force
 
 # Object files for target leetcode_training
 leetcode_training_OBJECTS = \
-"CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.o" \
+"CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.o" \
 "CMakeFiles/leetcode_training.dir/data_structure/tree/MaxHeap.c.o" \
 "CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.o" \
 "CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.o" \
@@ -133,7 +133,7 @@ leetcode_training_OBJECTS = \
 # External object files for target leetcode_training
 leetcode_training_EXTERNAL_OBJECTS =
 
-leetcode_training: CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.o
+leetcode_training: CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.o
 leetcode_training: CMakeFiles/leetcode_training.dir/data_structure/tree/MaxHeap.c.o
 leetcode_training: CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.o
 leetcode_training: CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.o

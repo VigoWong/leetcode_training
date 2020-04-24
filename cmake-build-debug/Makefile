@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-PerformStringShifts***/PerformStringShifts.o: PerformStringShifts***/PerformStringShifts.c.o
+PermutationII/PermutationII.o: PermutationII/PermutationII.c.o
 
-.PHONY : PerformStringShifts***/PerformStringShifts.o
+.PHONY : PermutationII/PermutationII.o
 
 # target to build an object file
-PerformStringShifts***/PerformStringShifts.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make "CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.o"
-.PHONY : PerformStringShifts***/PerformStringShifts.c.o
+PermutationII/PermutationII.c.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.o
+.PHONY : PermutationII/PermutationII.c.o
 
-PerformStringShifts***/PerformStringShifts.i: PerformStringShifts***/PerformStringShifts.c.i
+PermutationII/PermutationII.i: PermutationII/PermutationII.c.i
 
-.PHONY : PerformStringShifts***/PerformStringShifts.i
+.PHONY : PermutationII/PermutationII.i
 
 # target to preprocess a source file
-PerformStringShifts***/PerformStringShifts.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make "CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.i"
-.PHONY : PerformStringShifts***/PerformStringShifts.c.i
+PermutationII/PermutationII.c.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.i
+.PHONY : PermutationII/PermutationII.c.i
 
-PerformStringShifts***/PerformStringShifts.s: PerformStringShifts***/PerformStringShifts.c.s
+PermutationII/PermutationII.s: PermutationII/PermutationII.c.s
 
-.PHONY : PerformStringShifts***/PerformStringShifts.s
+.PHONY : PermutationII/PermutationII.s
 
 # target to generate assembly for a file
-PerformStringShifts***/PerformStringShifts.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make "CMakeFiles/leetcode_training.dir/PerformStringShifts***/PerformStringShifts.c.s"
-.PHONY : PerformStringShifts***/PerformStringShifts.c.s
+PermutationII/PermutationII.c.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.s
+.PHONY : PermutationII/PermutationII.c.s
 
 data_structure/graph/Graph.o: data_structure/graph/Graph.c.o
 
@@ -267,9 +267,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... PerformStringShifts***/PerformStringShifts.o"
-	@echo "... PerformStringShifts***/PerformStringShifts.i"
-	@echo "... PerformStringShifts***/PerformStringShifts.s"
+	@echo "... PermutationII/PermutationII.o"
+	@echo "... PermutationII/PermutationII.i"
+	@echo "... PermutationII/PermutationII.s"
 	@echo "... data_structure/graph/Graph.o"
 	@echo "... data_structure/graph/Graph.i"
 	@echo "... data_structure/graph/Graph.s"

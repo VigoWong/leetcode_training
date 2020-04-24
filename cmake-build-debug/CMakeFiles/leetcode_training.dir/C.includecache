@@ -6,13 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/huhawel/Documents/leetcode_training/PerformStringShifts/PerformStringShifts.c
-string.h
-/Users/huhawel/Documents/leetcode_training/PerformStringShifts/string.h
+/Users/huhawel/Documents/leetcode_training/BitwiseANDofNumbersRange/BitwiseANDofNumbersRange.c
 stdio.h
-/Users/huhawel/Documents/leetcode_training/PerformStringShifts/stdio.h
-stdlib.h
-/Users/huhawel/Documents/leetcode_training/PerformStringShifts/stdlib.h
-stdbool.h
-/Users/huhawel/Documents/leetcode_training/PerformStringShifts/stdbool.h
+/Users/huhawel/Documents/leetcode_training/BitwiseANDofNumbersRange/stdio.h
 
