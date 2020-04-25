@@ -1,15 +1,14 @@
 class Solution:
 
     def dfs(self, visit, cur_ls, nums, ret):
-        if (len(cur_ls) == len(nums)):
+        if(len(cur_ls) == len(nums)):
             ret.append(cur_ls)
 
         else:
             for n in range(len(nums)):
                 if not visit[n]:
-                    if n!=0 and nums[n] == nums[n-1] and not visit[n-1]: continue
                     visit[n] = 1
-                    self.dfs(visit, cur_ls + [nums[n]], nums, ret)
+                    self.dfs(visit, cur_ls+[nums[n]], nums, ret)
                     visit[n] = 0
 
     def permuteUnique(self, nums):
@@ -23,4 +22,4 @@ class Solution:
 
 if __name__ == '__main__':
     s = Solution()
-    print(s.permuteUnique([1, 2, 2]))
+    print(s.permuteUnique([1, 2, 3]))

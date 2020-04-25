@@ -4,7 +4,7 @@ project(leetcode_training C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(leetcode_training
-        PermutationII/PermutationII.c
+        WildcardMatching/WildcardMatching.c
         data_structure/tree/MaxHeap.c
         data_structure/tree/MaxHeap.h
 #        data_structure/tree/MinHeap.c

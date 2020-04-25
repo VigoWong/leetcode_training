@@ -6,7 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/huhawel/Documents/leetcode_training/BitwiseANDofNumbersRange/BitwiseANDofNumbersRange.c
+/Users/huhawel/Documents/leetcode_training/WildcardMatching/WildcardMatching.c
 stdio.h
-/Users/huhawel/Documents/leetcode_training/BitwiseANDofNumbersRange/stdio.h
+/Users/huhawel/Documents/leetcode_training/WildcardMatching/stdio.h
+string.h
+/Users/huhawel/Documents/leetcode_training/WildcardMatching/string.h
+stdbool.h
+/Users/huhawel/Documents/leetcode_training/WildcardMatching/stdbool.h
+stdlib.h
+/Users/huhawel/Documents/leetcode_training/WildcardMatching/stdlib.h
 

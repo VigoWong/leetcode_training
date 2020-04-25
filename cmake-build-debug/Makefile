@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-PermutationII/PermutationII.o: PermutationII/PermutationII.c.o
+WildcardMatching/WildcardMatching.o: WildcardMatching/WildcardMatching.c.o
 
-.PHONY : PermutationII/PermutationII.o
+.PHONY : WildcardMatching/WildcardMatching.o
 
 # target to build an object file
-PermutationII/PermutationII.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.o
-.PHONY : PermutationII/PermutationII.c.o
+WildcardMatching/WildcardMatching.c.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/WildcardMatching/WildcardMatching.c.o
+.PHONY : WildcardMatching/WildcardMatching.c.o
 
-PermutationII/PermutationII.i: PermutationII/PermutationII.c.i
+WildcardMatching/WildcardMatching.i: WildcardMatching/WildcardMatching.c.i
 
-.PHONY : PermutationII/PermutationII.i
+.PHONY : WildcardMatching/WildcardMatching.i
 
 # target to preprocess a source file
-PermutationII/PermutationII.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.i
-.PHONY : PermutationII/PermutationII.c.i
+WildcardMatching/WildcardMatching.c.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/WildcardMatching/WildcardMatching.c.i
+.PHONY : WildcardMatching/WildcardMatching.c.i
 
-PermutationII/PermutationII.s: PermutationII/PermutationII.c.s
+WildcardMatching/WildcardMatching.s: WildcardMatching/WildcardMatching.c.s
 
-.PHONY : PermutationII/PermutationII.s
+.PHONY : WildcardMatching/WildcardMatching.s
 
 # target to generate assembly for a file
-PermutationII/PermutationII.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/PermutationII/PermutationII.c.s
-.PHONY : PermutationII/PermutationII.c.s
+WildcardMatching/WildcardMatching.c.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/WildcardMatching/WildcardMatching.c.s
+.PHONY : WildcardMatching/WildcardMatching.c.s
 
 data_structure/graph/Graph.o: data_structure/graph/Graph.c.o
 
@@ -267,9 +267,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... PermutationII/PermutationII.o"
-	@echo "... PermutationII/PermutationII.i"
-	@echo "... PermutationII/PermutationII.s"
+	@echo "... WildcardMatching/WildcardMatching.o"
+	@echo "... WildcardMatching/WildcardMatching.i"
+	@echo "... WildcardMatching/WildcardMatching.s"
 	@echo "... data_structure/graph/Graph.o"
 	@echo "... data_structure/graph/Graph.i"
 	@echo "... data_structure/graph/Graph.s"
