@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-WildcardMatching/WildcardMatching.o: WildcardMatching/WildcardMatching.c.o
+FirstMissingPositive/FirstMissingPositive.o: FirstMissingPositive/FirstMissingPositive.c.o
 
-.PHONY : WildcardMatching/WildcardMatching.o
+.PHONY : FirstMissingPositive/FirstMissingPositive.o
 
 # target to build an object file
-WildcardMatching/WildcardMatching.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/WildcardMatching/WildcardMatching.c.o
-.PHONY : WildcardMatching/WildcardMatching.c.o
+FirstMissingPositive/FirstMissingPositive.c.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/FirstMissingPositive/FirstMissingPositive.c.o
+.PHONY : FirstMissingPositive/FirstMissingPositive.c.o
 
-WildcardMatching/WildcardMatching.i: WildcardMatching/WildcardMatching.c.i
+FirstMissingPositive/FirstMissingPositive.i: FirstMissingPositive/FirstMissingPositive.c.i
 
-.PHONY : WildcardMatching/WildcardMatching.i
+.PHONY : FirstMissingPositive/FirstMissingPositive.i
 
 # target to preprocess a source file
-WildcardMatching/WildcardMatching.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/WildcardMatching/WildcardMatching.c.i
-.PHONY : WildcardMatching/WildcardMatching.c.i
+FirstMissingPositive/FirstMissingPositive.c.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/FirstMissingPositive/FirstMissingPositive.c.i
+.PHONY : FirstMissingPositive/FirstMissingPositive.c.i
 
-WildcardMatching/WildcardMatching.s: WildcardMatching/WildcardMatching.c.s
+FirstMissingPositive/FirstMissingPositive.s: FirstMissingPositive/FirstMissingPositive.c.s
 
-.PHONY : WildcardMatching/WildcardMatching.s
+.PHONY : FirstMissingPositive/FirstMissingPositive.s
 
 # target to generate assembly for a file
-WildcardMatching/WildcardMatching.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/WildcardMatching/WildcardMatching.c.s
-.PHONY : WildcardMatching/WildcardMatching.c.s
+FirstMissingPositive/FirstMissingPositive.c.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/FirstMissingPositive/FirstMissingPositive.c.s
+.PHONY : FirstMissingPositive/FirstMissingPositive.c.s
 
 data_structure/graph/Graph.o: data_structure/graph/Graph.c.o
 
@@ -267,9 +267,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... WildcardMatching/WildcardMatching.o"
-	@echo "... WildcardMatching/WildcardMatching.i"
-	@echo "... WildcardMatching/WildcardMatching.s"
+	@echo "... FirstMissingPositive/FirstMissingPositive.o"
+	@echo "... FirstMissingPositive/FirstMissingPositive.i"
+	@echo "... FirstMissingPositive/FirstMissingPositive.s"
 	@echo "... data_structure/graph/Graph.o"
 	@echo "... data_structure/graph/Graph.i"
 	@echo "... data_structure/graph/Graph.s"
