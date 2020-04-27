@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/leetcode_training.dir/FirstMissingPositive/FirstMissingPositive.c.o"
+  "CMakeFiles/leetcode_training.dir/CountandSay/CountandSay.c.o"
   "CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.o"
   "CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o"
   "CMakeFiles/leetcode_training.dir/data_structure/tree/MaxHeap.c.o"

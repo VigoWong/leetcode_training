@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/huhawel/Documents/leetcode_training/FirstMissingPositive/FirstMissingPositive.c
+/Users/huhawel/Documents/leetcode_training/CountandSay/CountandSay.c
+stdlib.h
+/Users/huhawel/Documents/leetcode_training/CountandSay/stdlib.h
 stdio.h
-/Users/huhawel/Documents/leetcode_training/FirstMissingPositive/stdio.h
+/Users/huhawel/Documents/leetcode_training/CountandSay/stdio.h
+string.h
+/Users/huhawel/Documents/leetcode_training/CountandSay/string.h
 

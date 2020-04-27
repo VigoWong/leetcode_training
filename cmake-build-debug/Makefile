@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-FirstMissingPositive/FirstMissingPositive.o: FirstMissingPositive/FirstMissingPositive.c.o
+CountandSay/CountandSay.o: CountandSay/CountandSay.c.o
 
-.PHONY : FirstMissingPositive/FirstMissingPositive.o
+.PHONY : CountandSay/CountandSay.o
 
 # target to build an object file
-FirstMissingPositive/FirstMissingPositive.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/FirstMissingPositive/FirstMissingPositive.c.o
-.PHONY : FirstMissingPositive/FirstMissingPositive.c.o
+CountandSay/CountandSay.c.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/CountandSay/CountandSay.c.o
+.PHONY : CountandSay/CountandSay.c.o
 
-FirstMissingPositive/FirstMissingPositive.i: FirstMissingPositive/FirstMissingPositive.c.i
+CountandSay/CountandSay.i: CountandSay/CountandSay.c.i
 
-.PHONY : FirstMissingPositive/FirstMissingPositive.i
+.PHONY : CountandSay/CountandSay.i
 
 # target to preprocess a source file
-FirstMissingPositive/FirstMissingPositive.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/FirstMissingPositive/FirstMissingPositive.c.i
-.PHONY : FirstMissingPositive/FirstMissingPositive.c.i
+CountandSay/CountandSay.c.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/CountandSay/CountandSay.c.i
+.PHONY : CountandSay/CountandSay.c.i
 
-FirstMissingPositive/FirstMissingPositive.s: FirstMissingPositive/FirstMissingPositive.c.s
+CountandSay/CountandSay.s: CountandSay/CountandSay.c.s
 
-.PHONY : FirstMissingPositive/FirstMissingPositive.s
+.PHONY : CountandSay/CountandSay.s
 
 # target to generate assembly for a file
-FirstMissingPositive/FirstMissingPositive.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/FirstMissingPositive/FirstMissingPositive.c.s
-.PHONY : FirstMissingPositive/FirstMissingPositive.c.s
+CountandSay/CountandSay.c.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/CountandSay/CountandSay.c.s
+.PHONY : CountandSay/CountandSay.c.s
 
 data_structure/graph/Graph.o: data_structure/graph/Graph.c.o
 
@@ -267,9 +267,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... FirstMissingPositive/FirstMissingPositive.o"
-	@echo "... FirstMissingPositive/FirstMissingPositive.i"
-	@echo "... FirstMissingPositive/FirstMissingPositive.s"
+	@echo "... CountandSay/CountandSay.o"
+	@echo "... CountandSay/CountandSay.i"
+	@echo "... CountandSay/CountandSay.s"
 	@echo "... data_structure/graph/Graph.o"
 	@echo "... data_structure/graph/Graph.i"
 	@echo "... data_structure/graph/Graph.s"
