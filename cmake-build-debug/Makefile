@@ -123,140 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-CountandSay/CountandSay.o: CountandSay/CountandSay.c.o
+InsertInterval/InsertInterval.o: InsertInterval/InsertInterval.cpp.o
 
-.PHONY : CountandSay/CountandSay.o
-
-# target to build an object file
-CountandSay/CountandSay.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/CountandSay/CountandSay.c.o
-.PHONY : CountandSay/CountandSay.c.o
-
-CountandSay/CountandSay.i: CountandSay/CountandSay.c.i
-
-.PHONY : CountandSay/CountandSay.i
-
-# target to preprocess a source file
-CountandSay/CountandSay.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/CountandSay/CountandSay.c.i
-.PHONY : CountandSay/CountandSay.c.i
-
-CountandSay/CountandSay.s: CountandSay/CountandSay.c.s
-
-.PHONY : CountandSay/CountandSay.s
-
-# target to generate assembly for a file
-CountandSay/CountandSay.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/CountandSay/CountandSay.c.s
-.PHONY : CountandSay/CountandSay.c.s
-
-data_structure/graph/Graph.o: data_structure/graph/Graph.c.o
-
-.PHONY : data_structure/graph/Graph.o
+.PHONY : InsertInterval/InsertInterval.o
 
 # target to build an object file
-data_structure/graph/Graph.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.o
-.PHONY : data_structure/graph/Graph.c.o
+InsertInterval/InsertInterval.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.o
+.PHONY : InsertInterval/InsertInterval.cpp.o
 
-data_structure/graph/Graph.i: data_structure/graph/Graph.c.i
+InsertInterval/InsertInterval.i: InsertInterval/InsertInterval.cpp.i
 
-.PHONY : data_structure/graph/Graph.i
-
-# target to preprocess a source file
-data_structure/graph/Graph.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.i
-.PHONY : data_structure/graph/Graph.c.i
-
-data_structure/graph/Graph.s: data_structure/graph/Graph.c.s
-
-.PHONY : data_structure/graph/Graph.s
-
-# target to generate assembly for a file
-data_structure/graph/Graph.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/graph/Graph.c.s
-.PHONY : data_structure/graph/Graph.c.s
-
-data_structure/stack/stack.o: data_structure/stack/stack.c.o
-
-.PHONY : data_structure/stack/stack.o
-
-# target to build an object file
-data_structure/stack/stack.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.o
-.PHONY : data_structure/stack/stack.c.o
-
-data_structure/stack/stack.i: data_structure/stack/stack.c.i
-
-.PHONY : data_structure/stack/stack.i
+.PHONY : InsertInterval/InsertInterval.i
 
 # target to preprocess a source file
-data_structure/stack/stack.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.i
-.PHONY : data_structure/stack/stack.c.i
+InsertInterval/InsertInterval.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.i
+.PHONY : InsertInterval/InsertInterval.cpp.i
 
-data_structure/stack/stack.s: data_structure/stack/stack.c.s
+InsertInterval/InsertInterval.s: InsertInterval/InsertInterval.cpp.s
 
-.PHONY : data_structure/stack/stack.s
-
-# target to generate assembly for a file
-data_structure/stack/stack.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/stack/stack.c.s
-.PHONY : data_structure/stack/stack.c.s
-
-data_structure/tree/MaxHeap.o: data_structure/tree/MaxHeap.c.o
-
-.PHONY : data_structure/tree/MaxHeap.o
-
-# target to build an object file
-data_structure/tree/MaxHeap.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/tree/MaxHeap.c.o
-.PHONY : data_structure/tree/MaxHeap.c.o
-
-data_structure/tree/MaxHeap.i: data_structure/tree/MaxHeap.c.i
-
-.PHONY : data_structure/tree/MaxHeap.i
-
-# target to preprocess a source file
-data_structure/tree/MaxHeap.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/tree/MaxHeap.c.i
-.PHONY : data_structure/tree/MaxHeap.c.i
-
-data_structure/tree/MaxHeap.s: data_structure/tree/MaxHeap.c.s
-
-.PHONY : data_structure/tree/MaxHeap.s
+.PHONY : InsertInterval/InsertInterval.s
 
 # target to generate assembly for a file
-data_structure/tree/MaxHeap.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/tree/MaxHeap.c.s
-.PHONY : data_structure/tree/MaxHeap.c.s
-
-data_structure/tree/Tree.o: data_structure/tree/Tree.c.o
-
-.PHONY : data_structure/tree/Tree.o
-
-# target to build an object file
-data_structure/tree/Tree.c.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.o
-.PHONY : data_structure/tree/Tree.c.o
-
-data_structure/tree/Tree.i: data_structure/tree/Tree.c.i
-
-.PHONY : data_structure/tree/Tree.i
-
-# target to preprocess a source file
-data_structure/tree/Tree.c.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.i
-.PHONY : data_structure/tree/Tree.c.i
-
-data_structure/tree/Tree.s: data_structure/tree/Tree.c.s
-
-.PHONY : data_structure/tree/Tree.s
-
-# target to generate assembly for a file
-data_structure/tree/Tree.c.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/data_structure/tree/Tree.c.s
-.PHONY : data_structure/tree/Tree.c.s
+InsertInterval/InsertInterval.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.s
+.PHONY : InsertInterval/InsertInterval.cpp.s
 
 # Help Target
 help:
@@ -267,21 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... CountandSay/CountandSay.o"
-	@echo "... CountandSay/CountandSay.i"
-	@echo "... CountandSay/CountandSay.s"
-	@echo "... data_structure/graph/Graph.o"
-	@echo "... data_structure/graph/Graph.i"
-	@echo "... data_structure/graph/Graph.s"
-	@echo "... data_structure/stack/stack.o"
-	@echo "... data_structure/stack/stack.i"
-	@echo "... data_structure/stack/stack.s"
-	@echo "... data_structure/tree/MaxHeap.o"
-	@echo "... data_structure/tree/MaxHeap.i"
-	@echo "... data_structure/tree/MaxHeap.s"
-	@echo "... data_structure/tree/Tree.o"
-	@echo "... data_structure/tree/Tree.i"
-	@echo "... data_structure/tree/Tree.s"
+	@echo "... InsertInterval/InsertInterval.o"
+	@echo "... InsertInterval/InsertInterval.i"
+	@echo "... InsertInterval/InsertInterval.s"
 .PHONY : help
 
 

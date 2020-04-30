@@ -44,6 +44,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
@@ -64,6 +65,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
@@ -78,34 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/CountandSay/CountandSay.c">
-			<Option target="leetcode_training"/>
-		</Unit>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/graph/Graph.c">
-			<Option target="leetcode_training"/>
-		</Unit>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/graph/Graph.h">
-			<Option target="leetcode_training"/>
-		</Unit>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.c">
-			<Option target="leetcode_training"/>
-		</Unit>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/stack/stack.h">
-			<Option target="leetcode_training"/>
-		</Unit>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/tree/MaxHeap.c">
-			<Option target="leetcode_training"/>
-		</Unit>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/tree/MaxHeap.h">
-			<Option target="leetcode_training"/>
-		</Unit>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/tree/Tree.c">
-			<Option target="leetcode_training"/>
-		</Unit>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/tree/Tree.h">
-			<Option target="leetcode_training"/>
-		</Unit>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/data_structure/uthash/include/uthash.h">
+		<Unit filename="/Users/huhawel/Documents/leetcode_training/InsertInterval/InsertInterval.cpp">
 			<Option target="leetcode_training"/>
 		</Unit>
 		<Unit filename="/Users/huhawel/Documents/leetcode_training/CMakeLists.txt">
