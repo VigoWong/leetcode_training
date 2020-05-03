@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/huhawel/Documents/leetcode_training/InsertInterval/InsertInterval.cpp" "/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.o"
+  "/Users/huhawel/Documents/leetcode_training/MinimumPathSum/MinimumPathSum.cpp" "/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

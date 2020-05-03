@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.o"
+  "CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.o"
   "leetcode_training"
   "leetcode_training.pdb"
 )

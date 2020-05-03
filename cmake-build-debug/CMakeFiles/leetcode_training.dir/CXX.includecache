@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/huhawel/Documents/leetcode_training/MergeIntervals/MergeIntervals.cpp
+/Users/huhawel/Documents/leetcode_training/MinimumPathSum/MinimumPathSum.cpp
 algorithm
 -
 vector
 -
 iostream
+-
+cmath
 -
 

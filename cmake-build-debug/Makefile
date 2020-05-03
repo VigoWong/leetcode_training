@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-InsertInterval/InsertInterval.o: InsertInterval/InsertInterval.cpp.o
+MinimumPathSum/MinimumPathSum.o: MinimumPathSum/MinimumPathSum.cpp.o
 
-.PHONY : InsertInterval/InsertInterval.o
+.PHONY : MinimumPathSum/MinimumPathSum.o
 
 # target to build an object file
-InsertInterval/InsertInterval.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.o
-.PHONY : InsertInterval/InsertInterval.cpp.o
+MinimumPathSum/MinimumPathSum.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.o
+.PHONY : MinimumPathSum/MinimumPathSum.cpp.o
 
-InsertInterval/InsertInterval.i: InsertInterval/InsertInterval.cpp.i
+MinimumPathSum/MinimumPathSum.i: MinimumPathSum/MinimumPathSum.cpp.i
 
-.PHONY : InsertInterval/InsertInterval.i
+.PHONY : MinimumPathSum/MinimumPathSum.i
 
 # target to preprocess a source file
-InsertInterval/InsertInterval.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.i
-.PHONY : InsertInterval/InsertInterval.cpp.i
+MinimumPathSum/MinimumPathSum.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.i
+.PHONY : MinimumPathSum/MinimumPathSum.cpp.i
 
-InsertInterval/InsertInterval.s: InsertInterval/InsertInterval.cpp.s
+MinimumPathSum/MinimumPathSum.s: MinimumPathSum/MinimumPathSum.cpp.s
 
-.PHONY : InsertInterval/InsertInterval.s
+.PHONY : MinimumPathSum/MinimumPathSum.s
 
 # target to generate assembly for a file
-InsertInterval/InsertInterval.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.s
-.PHONY : InsertInterval/InsertInterval.cpp.s
+MinimumPathSum/MinimumPathSum.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.s
+.PHONY : MinimumPathSum/MinimumPathSum.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... InsertInterval/InsertInterval.o"
-	@echo "... InsertInterval/InsertInterval.i"
-	@echo "... InsertInterval/InsertInterval.s"
+	@echo "... MinimumPathSum/MinimumPathSum.o"
+	@echo "... MinimumPathSum/MinimumPathSum.i"
+	@echo "... MinimumPathSum/MinimumPathSum.s"
 .PHONY : help
 
 

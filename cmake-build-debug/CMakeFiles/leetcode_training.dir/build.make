@@ -57,27 +57,27 @@ include CMakeFiles/leetcode_training.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/leetcode_training.dir/flags.make
 
-CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.o: CMakeFiles/leetcode_training.dir/flags.make
-CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.o: ../InsertInterval/InsertInterval.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.o -c /Users/huhawel/Documents/leetcode_training/InsertInterval/InsertInterval.cpp
+CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.o: CMakeFiles/leetcode_training.dir/flags.make
+CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.o: ../MinimumPathSum/MinimumPathSum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.o -c /Users/huhawel/Documents/leetcode_training/MinimumPathSum/MinimumPathSum.cpp
 
-CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/huhawel/Documents/leetcode_training/InsertInterval/InsertInterval.cpp > CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.i
+CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/huhawel/Documents/leetcode_training/MinimumPathSum/MinimumPathSum.cpp > CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.i
 
-CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/huhawel/Documents/leetcode_training/InsertInterval/InsertInterval.cpp -o CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.s
+CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/huhawel/Documents/leetcode_training/MinimumPathSum/MinimumPathSum.cpp -o CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.s
 
 # Object files for target leetcode_training
 leetcode_training_OBJECTS = \
-"CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.o"
+"CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.o"
 
 # External object files for target leetcode_training
 leetcode_training_EXTERNAL_OBJECTS =
 
-leetcode_training: CMakeFiles/leetcode_training.dir/InsertInterval/InsertInterval.cpp.o
+leetcode_training: CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.o
 leetcode_training: CMakeFiles/leetcode_training.dir/build.make
 leetcode_training: CMakeFiles/leetcode_training.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable leetcode_training"
