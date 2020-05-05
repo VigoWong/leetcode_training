@@ -4,5 +4,5 @@ project(leetcode_training)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(leetcode_training
-        MinimumPathSum/MinimumPathSum.cpp
+        TextJustification/TextJustification.cpp
         )

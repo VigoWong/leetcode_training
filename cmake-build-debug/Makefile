@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-MinimumPathSum/MinimumPathSum.o: MinimumPathSum/MinimumPathSum.cpp.o
+TextJustification/TextJustification.o: TextJustification/TextJustification.cpp.o
 
-.PHONY : MinimumPathSum/MinimumPathSum.o
+.PHONY : TextJustification/TextJustification.o
 
 # target to build an object file
-MinimumPathSum/MinimumPathSum.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.o
-.PHONY : MinimumPathSum/MinimumPathSum.cpp.o
+TextJustification/TextJustification.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/TextJustification/TextJustification.cpp.o
+.PHONY : TextJustification/TextJustification.cpp.o
 
-MinimumPathSum/MinimumPathSum.i: MinimumPathSum/MinimumPathSum.cpp.i
+TextJustification/TextJustification.i: TextJustification/TextJustification.cpp.i
 
-.PHONY : MinimumPathSum/MinimumPathSum.i
+.PHONY : TextJustification/TextJustification.i
 
 # target to preprocess a source file
-MinimumPathSum/MinimumPathSum.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.i
-.PHONY : MinimumPathSum/MinimumPathSum.cpp.i
+TextJustification/TextJustification.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/TextJustification/TextJustification.cpp.i
+.PHONY : TextJustification/TextJustification.cpp.i
 
-MinimumPathSum/MinimumPathSum.s: MinimumPathSum/MinimumPathSum.cpp.s
+TextJustification/TextJustification.s: TextJustification/TextJustification.cpp.s
 
-.PHONY : MinimumPathSum/MinimumPathSum.s
+.PHONY : TextJustification/TextJustification.s
 
 # target to generate assembly for a file
-MinimumPathSum/MinimumPathSum.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/MinimumPathSum/MinimumPathSum.cpp.s
-.PHONY : MinimumPathSum/MinimumPathSum.cpp.s
+TextJustification/TextJustification.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/TextJustification/TextJustification.cpp.s
+.PHONY : TextJustification/TextJustification.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... MinimumPathSum/MinimumPathSum.o"
-	@echo "... MinimumPathSum/MinimumPathSum.i"
-	@echo "... MinimumPathSum/MinimumPathSum.s"
+	@echo "... TextJustification/TextJustification.o"
+	@echo "... TextJustification/TextJustification.i"
+	@echo "... TextJustification/TextJustification.s"
 .PHONY : help
 
 

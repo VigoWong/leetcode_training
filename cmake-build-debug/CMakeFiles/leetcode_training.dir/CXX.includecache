@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/huhawel/Documents/leetcode_training/MinimumPathSum/MinimumPathSum.cpp
-algorithm
--
+/Users/huhawel/Documents/leetcode_training/TextJustification/TextJustification.cpp
 vector
 -
-iostream
+string
 -
-cmath
+algorithm
+-
+iostream
 -
 
