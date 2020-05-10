@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-TextJustification/TextJustification.o: TextJustification/TextJustification.cpp.o
+ValidNumber/ValidNumber.o: ValidNumber/ValidNumber.cpp.o
 
-.PHONY : TextJustification/TextJustification.o
+.PHONY : ValidNumber/ValidNumber.o
 
 # target to build an object file
-TextJustification/TextJustification.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/TextJustification/TextJustification.cpp.o
-.PHONY : TextJustification/TextJustification.cpp.o
+ValidNumber/ValidNumber.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ValidNumber/ValidNumber.cpp.o
+.PHONY : ValidNumber/ValidNumber.cpp.o
 
-TextJustification/TextJustification.i: TextJustification/TextJustification.cpp.i
+ValidNumber/ValidNumber.i: ValidNumber/ValidNumber.cpp.i
 
-.PHONY : TextJustification/TextJustification.i
+.PHONY : ValidNumber/ValidNumber.i
 
 # target to preprocess a source file
-TextJustification/TextJustification.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/TextJustification/TextJustification.cpp.i
-.PHONY : TextJustification/TextJustification.cpp.i
+ValidNumber/ValidNumber.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ValidNumber/ValidNumber.cpp.i
+.PHONY : ValidNumber/ValidNumber.cpp.i
 
-TextJustification/TextJustification.s: TextJustification/TextJustification.cpp.s
+ValidNumber/ValidNumber.s: ValidNumber/ValidNumber.cpp.s
 
-.PHONY : TextJustification/TextJustification.s
+.PHONY : ValidNumber/ValidNumber.s
 
 # target to generate assembly for a file
-TextJustification/TextJustification.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/TextJustification/TextJustification.cpp.s
-.PHONY : TextJustification/TextJustification.cpp.s
+ValidNumber/ValidNumber.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ValidNumber/ValidNumber.cpp.s
+.PHONY : ValidNumber/ValidNumber.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... TextJustification/TextJustification.o"
-	@echo "... TextJustification/TextJustification.i"
-	@echo "... TextJustification/TextJustification.s"
+	@echo "... ValidNumber/ValidNumber.o"
+	@echo "... ValidNumber/ValidNumber.i"
+	@echo "... ValidNumber/ValidNumber.s"
 .PHONY : help
 
 

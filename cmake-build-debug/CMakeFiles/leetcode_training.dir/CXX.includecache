@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/huhawel/Documents/leetcode_training/TextJustification/TextJustification.cpp
-vector
+/Users/huhawel/Documents/leetcode_training/ValidNumber/ValidNumber.cpp
+iostream
 -
 string
--
-algorithm
--
-iostream
 -
 
