@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/huhawel/Documents/leetcode_training/ValidNumber/ValidNumber.cpp
-iostream
+/Users/huhawel/Documents/leetcode_training/SortColors/Sortcolors.cpp
+algorithm
 -
-string
+vector
+-
+iostream
 -
 

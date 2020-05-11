@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-ValidNumber/ValidNumber.o: ValidNumber/ValidNumber.cpp.o
+SortColors/Sortcolors.o: SortColors/Sortcolors.cpp.o
 
-.PHONY : ValidNumber/ValidNumber.o
+.PHONY : SortColors/Sortcolors.o
 
 # target to build an object file
-ValidNumber/ValidNumber.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ValidNumber/ValidNumber.cpp.o
-.PHONY : ValidNumber/ValidNumber.cpp.o
+SortColors/Sortcolors.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/SortColors/Sortcolors.cpp.o
+.PHONY : SortColors/Sortcolors.cpp.o
 
-ValidNumber/ValidNumber.i: ValidNumber/ValidNumber.cpp.i
+SortColors/Sortcolors.i: SortColors/Sortcolors.cpp.i
 
-.PHONY : ValidNumber/ValidNumber.i
+.PHONY : SortColors/Sortcolors.i
 
 # target to preprocess a source file
-ValidNumber/ValidNumber.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ValidNumber/ValidNumber.cpp.i
-.PHONY : ValidNumber/ValidNumber.cpp.i
+SortColors/Sortcolors.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/SortColors/Sortcolors.cpp.i
+.PHONY : SortColors/Sortcolors.cpp.i
 
-ValidNumber/ValidNumber.s: ValidNumber/ValidNumber.cpp.s
+SortColors/Sortcolors.s: SortColors/Sortcolors.cpp.s
 
-.PHONY : ValidNumber/ValidNumber.s
+.PHONY : SortColors/Sortcolors.s
 
 # target to generate assembly for a file
-ValidNumber/ValidNumber.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ValidNumber/ValidNumber.cpp.s
-.PHONY : ValidNumber/ValidNumber.cpp.s
+SortColors/Sortcolors.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/SortColors/Sortcolors.cpp.s
+.PHONY : SortColors/Sortcolors.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... ValidNumber/ValidNumber.o"
-	@echo "... ValidNumber/ValidNumber.i"
-	@echo "... ValidNumber/ValidNumber.s"
+	@echo "... SortColors/Sortcolors.o"
+	@echo "... SortColors/Sortcolors.i"
+	@echo "... SortColors/Sortcolors.s"
 .PHONY : help
 
 
