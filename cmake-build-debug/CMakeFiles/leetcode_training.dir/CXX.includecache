@@ -6,10 +6,12 @@
 
 #IncludeRegexTransform: 
 
-/Users/huhawel/Documents/leetcode_training/SortColors/Sortcolors.cpp
-algorithm
+/Users/huhawel/Documents/leetcode_training/DecodeWays/DecodeWays.cpp
+string
 -
 vector
+-
+algorithm
 -
 iostream
 -

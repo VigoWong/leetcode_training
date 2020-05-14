@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-SortColors/Sortcolors.o: SortColors/Sortcolors.cpp.o
+DecodeWays/DecodeWays.o: DecodeWays/DecodeWays.cpp.o
 
-.PHONY : SortColors/Sortcolors.o
+.PHONY : DecodeWays/DecodeWays.o
 
 # target to build an object file
-SortColors/Sortcolors.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/SortColors/Sortcolors.cpp.o
-.PHONY : SortColors/Sortcolors.cpp.o
+DecodeWays/DecodeWays.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.o
+.PHONY : DecodeWays/DecodeWays.cpp.o
 
-SortColors/Sortcolors.i: SortColors/Sortcolors.cpp.i
+DecodeWays/DecodeWays.i: DecodeWays/DecodeWays.cpp.i
 
-.PHONY : SortColors/Sortcolors.i
+.PHONY : DecodeWays/DecodeWays.i
 
 # target to preprocess a source file
-SortColors/Sortcolors.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/SortColors/Sortcolors.cpp.i
-.PHONY : SortColors/Sortcolors.cpp.i
+DecodeWays/DecodeWays.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.i
+.PHONY : DecodeWays/DecodeWays.cpp.i
 
-SortColors/Sortcolors.s: SortColors/Sortcolors.cpp.s
+DecodeWays/DecodeWays.s: DecodeWays/DecodeWays.cpp.s
 
-.PHONY : SortColors/Sortcolors.s
+.PHONY : DecodeWays/DecodeWays.s
 
 # target to generate assembly for a file
-SortColors/Sortcolors.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/SortColors/Sortcolors.cpp.s
-.PHONY : SortColors/Sortcolors.cpp.s
+DecodeWays/DecodeWays.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.s
+.PHONY : DecodeWays/DecodeWays.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... SortColors/Sortcolors.o"
-	@echo "... SortColors/Sortcolors.i"
-	@echo "... SortColors/Sortcolors.s"
+	@echo "... DecodeWays/DecodeWays.o"
+	@echo "... DecodeWays/DecodeWays.i"
+	@echo "... DecodeWays/DecodeWays.s"
 .PHONY : help
 
 
