@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-DecodeWays/DecodeWays.o: DecodeWays/DecodeWays.cpp.o
+RestoreIPAddresses/RestoreIPAddresses.o: RestoreIPAddresses/RestoreIPAddresses.cpp.o
 
-.PHONY : DecodeWays/DecodeWays.o
+.PHONY : RestoreIPAddresses/RestoreIPAddresses.o
 
 # target to build an object file
-DecodeWays/DecodeWays.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.o
-.PHONY : DecodeWays/DecodeWays.cpp.o
+RestoreIPAddresses/RestoreIPAddresses.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o
+.PHONY : RestoreIPAddresses/RestoreIPAddresses.cpp.o
 
-DecodeWays/DecodeWays.i: DecodeWays/DecodeWays.cpp.i
+RestoreIPAddresses/RestoreIPAddresses.i: RestoreIPAddresses/RestoreIPAddresses.cpp.i
 
-.PHONY : DecodeWays/DecodeWays.i
+.PHONY : RestoreIPAddresses/RestoreIPAddresses.i
 
 # target to preprocess a source file
-DecodeWays/DecodeWays.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.i
-.PHONY : DecodeWays/DecodeWays.cpp.i
+RestoreIPAddresses/RestoreIPAddresses.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.i
+.PHONY : RestoreIPAddresses/RestoreIPAddresses.cpp.i
 
-DecodeWays/DecodeWays.s: DecodeWays/DecodeWays.cpp.s
+RestoreIPAddresses/RestoreIPAddresses.s: RestoreIPAddresses/RestoreIPAddresses.cpp.s
 
-.PHONY : DecodeWays/DecodeWays.s
+.PHONY : RestoreIPAddresses/RestoreIPAddresses.s
 
 # target to generate assembly for a file
-DecodeWays/DecodeWays.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.s
-.PHONY : DecodeWays/DecodeWays.cpp.s
+RestoreIPAddresses/RestoreIPAddresses.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.s
+.PHONY : RestoreIPAddresses/RestoreIPAddresses.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... DecodeWays/DecodeWays.o"
-	@echo "... DecodeWays/DecodeWays.i"
-	@echo "... DecodeWays/DecodeWays.s"
+	@echo "... RestoreIPAddresses/RestoreIPAddresses.o"
+	@echo "... RestoreIPAddresses/RestoreIPAddresses.i"
+	@echo "... RestoreIPAddresses/RestoreIPAddresses.s"
 .PHONY : help
 
 

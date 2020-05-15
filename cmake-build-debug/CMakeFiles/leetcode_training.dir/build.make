@@ -57,27 +57,27 @@ include CMakeFiles/leetcode_training.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/leetcode_training.dir/flags.make
 
-CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.o: CMakeFiles/leetcode_training.dir/flags.make
-CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.o: ../DecodeWays/DecodeWays.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.o -c /Users/huhawel/Documents/leetcode_training/DecodeWays/DecodeWays.cpp
+CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o: CMakeFiles/leetcode_training.dir/flags.make
+CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o: ../RestoreIPAddresses/RestoreIPAddresses.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o -c /Users/huhawel/Documents/leetcode_training/RestoreIPAddresses/RestoreIPAddresses.cpp
 
-CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/huhawel/Documents/leetcode_training/DecodeWays/DecodeWays.cpp > CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.i
+CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/huhawel/Documents/leetcode_training/RestoreIPAddresses/RestoreIPAddresses.cpp > CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.i
 
-CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/huhawel/Documents/leetcode_training/DecodeWays/DecodeWays.cpp -o CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.s
+CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/huhawel/Documents/leetcode_training/RestoreIPAddresses/RestoreIPAddresses.cpp -o CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.s
 
 # Object files for target leetcode_training
 leetcode_training_OBJECTS = \
-"CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.o"
+"CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o"
 
 # External object files for target leetcode_training
 leetcode_training_EXTERNAL_OBJECTS =
 
-leetcode_training: CMakeFiles/leetcode_training.dir/DecodeWays/DecodeWays.cpp.o
+leetcode_training: CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o
 leetcode_training: CMakeFiles/leetcode_training.dir/build.make
 leetcode_training: CMakeFiles/leetcode_training.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable leetcode_training"

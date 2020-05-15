@@ -6,12 +6,12 @@
 
 #IncludeRegexTransform: 
 
-/Users/huhawel/Documents/leetcode_training/DecodeWays/DecodeWays.cpp
+/Users/huhawel/Documents/leetcode_training/RestoreIPAddresses/RestoreIPAddresses.cpp
 string
 -
-vector
--
 algorithm
+-
+vector
 -
 iostream
 -
