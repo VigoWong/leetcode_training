@@ -4,5 +4,5 @@ project(leetcode_training)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(leetcode_training
-        RestoreIPAddresses/RestoreIPAddresses.cpp
+        PathSumII/PathSumII.cpp
         )

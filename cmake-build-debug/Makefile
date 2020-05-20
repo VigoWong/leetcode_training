@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-RestoreIPAddresses/RestoreIPAddresses.o: RestoreIPAddresses/RestoreIPAddresses.cpp.o
+PathSumII/PathSumII.o: PathSumII/PathSumII.cpp.o
 
-.PHONY : RestoreIPAddresses/RestoreIPAddresses.o
+.PHONY : PathSumII/PathSumII.o
 
 # target to build an object file
-RestoreIPAddresses/RestoreIPAddresses.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o
-.PHONY : RestoreIPAddresses/RestoreIPAddresses.cpp.o
+PathSumII/PathSumII.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/PathSumII/PathSumII.cpp.o
+.PHONY : PathSumII/PathSumII.cpp.o
 
-RestoreIPAddresses/RestoreIPAddresses.i: RestoreIPAddresses/RestoreIPAddresses.cpp.i
+PathSumII/PathSumII.i: PathSumII/PathSumII.cpp.i
 
-.PHONY : RestoreIPAddresses/RestoreIPAddresses.i
+.PHONY : PathSumII/PathSumII.i
 
 # target to preprocess a source file
-RestoreIPAddresses/RestoreIPAddresses.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.i
-.PHONY : RestoreIPAddresses/RestoreIPAddresses.cpp.i
+PathSumII/PathSumII.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/PathSumII/PathSumII.cpp.i
+.PHONY : PathSumII/PathSumII.cpp.i
 
-RestoreIPAddresses/RestoreIPAddresses.s: RestoreIPAddresses/RestoreIPAddresses.cpp.s
+PathSumII/PathSumII.s: PathSumII/PathSumII.cpp.s
 
-.PHONY : RestoreIPAddresses/RestoreIPAddresses.s
+.PHONY : PathSumII/PathSumII.s
 
 # target to generate assembly for a file
-RestoreIPAddresses/RestoreIPAddresses.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.s
-.PHONY : RestoreIPAddresses/RestoreIPAddresses.cpp.s
+PathSumII/PathSumII.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/PathSumII/PathSumII.cpp.s
+.PHONY : PathSumII/PathSumII.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... RestoreIPAddresses/RestoreIPAddresses.o"
-	@echo "... RestoreIPAddresses/RestoreIPAddresses.i"
-	@echo "... RestoreIPAddresses/RestoreIPAddresses.s"
+	@echo "... PathSumII/PathSumII.o"
+	@echo "... PathSumII/PathSumII.i"
+	@echo "... PathSumII/PathSumII.s"
 .PHONY : help
 
 
