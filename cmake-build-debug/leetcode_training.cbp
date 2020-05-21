@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/huhawel/Documents/leetcode_training/PathSumII/PathSumII.cpp">
+		<Unit filename="/Users/huhawel/Documents/leetcode_training/Pascal&apos;sTriangle/Pascal&apos;sTriangle.cpp">
 			<Option target="leetcode_training"/>
 		</Unit>
 		<Unit filename="/Users/huhawel/Documents/leetcode_training/CMakeLists.txt">

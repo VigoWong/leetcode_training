@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-PathSumII/PathSumII.o: PathSumII/PathSumII.cpp.o
+Pascal'sTriangle/Pascal'sTriangle.o: Pascal'sTriangle/Pascal'sTriangle.cpp.o
 
-.PHONY : PathSumII/PathSumII.o
+.PHONY : Pascal'sTriangle/Pascal'sTriangle.o
 
 # target to build an object file
-PathSumII/PathSumII.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/PathSumII/PathSumII.cpp.o
-.PHONY : PathSumII/PathSumII.cpp.o
+Pascal'sTriangle/Pascal'sTriangle.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make "CMakeFiles/leetcode_training.dir/Pascal'sTriangle/Pascal'sTriangle.cpp.o"
+.PHONY : Pascal'sTriangle/Pascal'sTriangle.cpp.o
 
-PathSumII/PathSumII.i: PathSumII/PathSumII.cpp.i
+Pascal'sTriangle/Pascal'sTriangle.i: Pascal'sTriangle/Pascal'sTriangle.cpp.i
 
-.PHONY : PathSumII/PathSumII.i
+.PHONY : Pascal'sTriangle/Pascal'sTriangle.i
 
 # target to preprocess a source file
-PathSumII/PathSumII.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/PathSumII/PathSumII.cpp.i
-.PHONY : PathSumII/PathSumII.cpp.i
+Pascal'sTriangle/Pascal'sTriangle.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make "CMakeFiles/leetcode_training.dir/Pascal'sTriangle/Pascal'sTriangle.cpp.i"
+.PHONY : Pascal'sTriangle/Pascal'sTriangle.cpp.i
 
-PathSumII/PathSumII.s: PathSumII/PathSumII.cpp.s
+Pascal'sTriangle/Pascal'sTriangle.s: Pascal'sTriangle/Pascal'sTriangle.cpp.s
 
-.PHONY : PathSumII/PathSumII.s
+.PHONY : Pascal'sTriangle/Pascal'sTriangle.s
 
 # target to generate assembly for a file
-PathSumII/PathSumII.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/PathSumII/PathSumII.cpp.s
-.PHONY : PathSumII/PathSumII.cpp.s
+Pascal'sTriangle/Pascal'sTriangle.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make "CMakeFiles/leetcode_training.dir/Pascal'sTriangle/Pascal'sTriangle.cpp.s"
+.PHONY : Pascal'sTriangle/Pascal'sTriangle.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... PathSumII/PathSumII.o"
-	@echo "... PathSumII/PathSumII.i"
-	@echo "... PathSumII/PathSumII.s"
+	@echo "... Pascal'sTriangle/Pascal'sTriangle.o"
+	@echo "... Pascal'sTriangle/Pascal'sTriangle.i"
+	@echo "... Pascal'sTriangle/Pascal'sTriangle.s"
 .PHONY : help
 
 

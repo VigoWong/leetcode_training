@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/leetcode_training.dir/PathSumII/PathSumII.cpp.o"
+  "CMakeFiles/leetcode_training.dir/Pascal'sTriangle/Pascal'sTriangle.cpp.o"
   "leetcode_training"
   "leetcode_training.pdb"
 )
