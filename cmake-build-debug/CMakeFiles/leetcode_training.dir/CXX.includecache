@@ -6,11 +6,5 @@
 
 #IncludeRegexTransform: 
 
-/Users/huhawel/Documents/leetcode_training/Pascal'sTriangle/Pascal'sTriangle.cpp
-algorithm
--
-vector
--
-iostream
--
+/Users/huhawel/Documents/leetcode_training/ReorderList/ReorderList.cpp
 

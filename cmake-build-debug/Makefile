@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-Pascal'sTriangle/Pascal'sTriangle.o: Pascal'sTriangle/Pascal'sTriangle.cpp.o
+ReorderList/ReorderList.o: ReorderList/ReorderList.cpp.o
 
-.PHONY : Pascal'sTriangle/Pascal'sTriangle.o
+.PHONY : ReorderList/ReorderList.o
 
 # target to build an object file
-Pascal'sTriangle/Pascal'sTriangle.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make "CMakeFiles/leetcode_training.dir/Pascal'sTriangle/Pascal'sTriangle.cpp.o"
-.PHONY : Pascal'sTriangle/Pascal'sTriangle.cpp.o
+ReorderList/ReorderList.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.o
+.PHONY : ReorderList/ReorderList.cpp.o
 
-Pascal'sTriangle/Pascal'sTriangle.i: Pascal'sTriangle/Pascal'sTriangle.cpp.i
+ReorderList/ReorderList.i: ReorderList/ReorderList.cpp.i
 
-.PHONY : Pascal'sTriangle/Pascal'sTriangle.i
+.PHONY : ReorderList/ReorderList.i
 
 # target to preprocess a source file
-Pascal'sTriangle/Pascal'sTriangle.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make "CMakeFiles/leetcode_training.dir/Pascal'sTriangle/Pascal'sTriangle.cpp.i"
-.PHONY : Pascal'sTriangle/Pascal'sTriangle.cpp.i
+ReorderList/ReorderList.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.i
+.PHONY : ReorderList/ReorderList.cpp.i
 
-Pascal'sTriangle/Pascal'sTriangle.s: Pascal'sTriangle/Pascal'sTriangle.cpp.s
+ReorderList/ReorderList.s: ReorderList/ReorderList.cpp.s
 
-.PHONY : Pascal'sTriangle/Pascal'sTriangle.s
+.PHONY : ReorderList/ReorderList.s
 
 # target to generate assembly for a file
-Pascal'sTriangle/Pascal'sTriangle.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make "CMakeFiles/leetcode_training.dir/Pascal'sTriangle/Pascal'sTriangle.cpp.s"
-.PHONY : Pascal'sTriangle/Pascal'sTriangle.cpp.s
+ReorderList/ReorderList.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.s
+.PHONY : ReorderList/ReorderList.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... Pascal'sTriangle/Pascal'sTriangle.o"
-	@echo "... Pascal'sTriangle/Pascal'sTriangle.i"
-	@echo "... Pascal'sTriangle/Pascal'sTriangle.s"
+	@echo "... ReorderList/ReorderList.o"
+	@echo "... ReorderList/ReorderList.i"
+	@echo "... ReorderList/ReorderList.s"
 .PHONY : help
 
 
