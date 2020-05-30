@@ -57,27 +57,27 @@ include CMakeFiles/leetcode_training.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/leetcode_training.dir/flags.make
 
-CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.o: CMakeFiles/leetcode_training.dir/flags.make
-CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.o: ../ReorderList/ReorderList.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.o -c /Users/huhawel/Documents/leetcode_training/ReorderList/ReorderList.cpp
+CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.o: CMakeFiles/leetcode_training.dir/flags.make
+CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.o: ../FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.o -c /Users/huhawel/Documents/leetcode_training/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp
 
-CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/huhawel/Documents/leetcode_training/ReorderList/ReorderList.cpp > CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.i
+CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/huhawel/Documents/leetcode_training/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp > CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.i
 
-CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/huhawel/Documents/leetcode_training/ReorderList/ReorderList.cpp -o CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.s
+CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/huhawel/Documents/leetcode_training/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp -o CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.s
 
 # Object files for target leetcode_training
 leetcode_training_OBJECTS = \
-"CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.o"
+"CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.o"
 
 # External object files for target leetcode_training
 leetcode_training_EXTERNAL_OBJECTS =
 
-leetcode_training: CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.o
+leetcode_training: CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.o
 leetcode_training: CMakeFiles/leetcode_training.dir/build.make
 leetcode_training: CMakeFiles/leetcode_training.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/huhawel/Documents/leetcode_training/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable leetcode_training"

@@ -123,32 +123,32 @@ leetcode_training/fast:
 	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/build
 .PHONY : leetcode_training/fast
 
-ReorderList/ReorderList.o: ReorderList/ReorderList.cpp.o
+FractiontoRecurringDecimal/FractiontoRecurringDecimal.o: FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.o
 
-.PHONY : ReorderList/ReorderList.o
+.PHONY : FractiontoRecurringDecimal/FractiontoRecurringDecimal.o
 
 # target to build an object file
-ReorderList/ReorderList.cpp.o:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.o
-.PHONY : ReorderList/ReorderList.cpp.o
+FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.o
+.PHONY : FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.o
 
-ReorderList/ReorderList.i: ReorderList/ReorderList.cpp.i
+FractiontoRecurringDecimal/FractiontoRecurringDecimal.i: FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.i
 
-.PHONY : ReorderList/ReorderList.i
+.PHONY : FractiontoRecurringDecimal/FractiontoRecurringDecimal.i
 
 # target to preprocess a source file
-ReorderList/ReorderList.cpp.i:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.i
-.PHONY : ReorderList/ReorderList.cpp.i
+FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.i
+.PHONY : FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.i
 
-ReorderList/ReorderList.s: ReorderList/ReorderList.cpp.s
+FractiontoRecurringDecimal/FractiontoRecurringDecimal.s: FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.s
 
-.PHONY : ReorderList/ReorderList.s
+.PHONY : FractiontoRecurringDecimal/FractiontoRecurringDecimal.s
 
 # target to generate assembly for a file
-ReorderList/ReorderList.cpp.s:
-	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.s
-.PHONY : ReorderList/ReorderList.cpp.s
+FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_training.dir/build.make CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.s
+.PHONY : FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_training"
-	@echo "... ReorderList/ReorderList.o"
-	@echo "... ReorderList/ReorderList.i"
-	@echo "... ReorderList/ReorderList.s"
+	@echo "... FractiontoRecurringDecimal/FractiontoRecurringDecimal.o"
+	@echo "... FractiontoRecurringDecimal/FractiontoRecurringDecimal.i"
+	@echo "... FractiontoRecurringDecimal/FractiontoRecurringDecimal.s"
 .PHONY : help
 
 

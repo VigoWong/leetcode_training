@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/leetcode_training.dir/ReorderList/ReorderList.cpp.o"
+  "CMakeFiles/leetcode_training.dir/FractiontoRecurringDecimal/FractiontoRecurringDecimal.cpp.o"
   "leetcode_training"
   "leetcode_training.pdb"
 )
